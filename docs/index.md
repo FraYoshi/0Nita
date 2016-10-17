@@ -6,4 +6,4 @@ Se non conosci il progetto ZeroNet, visita il sito [Zeronet.io](https://zeronet.
 
 ---
 
- [LINK A QUESTA ZEROPAGE](http://127.0.0.1:43110/1DQ33nELbqjhbxpmGh2WZM8k31yrvDE2Wr)
+ [LINK A QUESTA ZEROPAGE](http://127.0.0.1:43110/1BrdUYNAbRt4P2Jxpgk5WhtKR2oLicBgcw)
