@@ -1,1 +1,1 @@
-* [Joker Film](http://127.0.0.1:43110/1EXvZtqQQ7LyfRJr5Vgv4z2ttNQaAAgpuL)
+* [Joker Film - in stile blog](http://127.0.0.1:43110/1EXvZtqQQ7LyfRJr5Vgv4z2ttNQaAAgpuL)

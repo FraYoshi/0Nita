@@ -2,8 +2,8 @@ site_name: 0Nita - Zites Italiani
 pages:
 - Introduzione: index.md
 - Ziti:
-  - TODO: zites/TODO.md
-- Forum: forum.md
+  - nessuno ancora: zites/TODO.md
+- Forum e chat: forumchat.md
 - Blog:
   - Informatica: blog/informatica.md
   - Tempo Libero: blog/tempolibero.md

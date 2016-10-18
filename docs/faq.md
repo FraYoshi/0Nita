@@ -1,6 +1,6 @@
-# Come aggiungere il mio sito?
+# Come aggiungere un sito?
 
-manda una z-mail con indirizzo, categoria e nome sito ad uno delle seguenti z-mail:
+spedisci una z-mail con indirizzo, categoria, breve descrizione e nome sito ad uno delle seguenti z-mail:
 
 frayoshi@zeroid.bit
 
