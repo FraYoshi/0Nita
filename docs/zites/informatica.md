@@ -1,0 +1,1 @@
+* [Schiz0](http://127.0.0.1:43110/15Aj7PkCPHfCHqNFUnEMoKBDwqHAJ7b9Q6/) - generato utilizzando Emacs + org-mode. In trasformazione.

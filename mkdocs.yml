@@ -2,11 +2,12 @@ site_name: 0Nita - Zites Italiani
 pages:
 - Introduzione: index.md
 - Ziti:
-  - nessuno ancora: zites/TODO.md
+  - informatica: zites/informatica.md
 - Forum e chat: forumchat.md
 - Blog:
   - Informatica: blog/informatica.md
   - Tempo Libero: blog/tempolibero.md
 - Torrents: torrents.md
 - FAQ: faq.md
+- · SITI GEMELLI: ziti-gem.md
 theme: readthedocs
