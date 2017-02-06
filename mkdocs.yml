@@ -2,7 +2,7 @@ site_name: 0Nita - Zites Italiani
 pages:
 - Introduzione: index.md
 - Ziti:
-  - informatica: zites/informatica.md
+  - Cultura Generale: zites/cultura_generale.md
 - Forum e chat: forumchat.md
 - Blog:
   - Informatica: blog/informatica.md
